@@ -16,21 +16,24 @@ Planning meetings and tracking advancement for our Cub Scout den. Currently a
 ```
 adventures/   one file per rank — required + elective adventures and requirement text
 meetings/     one file per meeting — dated plan with agenda + requirement checklist
-tracking/     the advancement tracker (CSV, opens in Excel/Sheets → copy into Scoutbook)
 ```
+
+> **Public repo — no PII.** No scout names, contact info, or rosters go in here.
+> Track who completed what in [Scoutbook](https://scoutbook.scouting.org), the
+> official system of record. See `CLAUDE.md` for the rules.
 
 ## Workflow
 
 1. **Plan** — copy a meeting file, pick the adventure + requirements to hit.
 2. **Run** the meeting.
-3. **Mark** the tracker (`tracking/tiger-tracker.csv`) — completion date per adventure.
-4. **Copy** into [Scoutbook](https://scoutbook.scouting.org) (official system of record).
+3. **Record** completions in [Scoutbook](https://scoutbook.scouting.org) (official
+   system of record) — not in this repo.
 
 ## Growing to the next rank
 
 When the den advances (e.g. Wolf next year): add `adventures/wolf.md` from
 [scouting.org/programs/cub-scouts/adventures](https://www.scouting.org/programs/cub-scouts/adventures/),
-add a `wolf-tracker.csv`, keep going. Nothing here needs restructuring.
+keep going. Nothing here needs restructuring.
 
 ## Start here
 

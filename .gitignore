@@ -1,0 +1,4 @@
+# Public repo — keep scout PII out. Track advancement in Scoutbook, not here.
+tracking/
+*-tracker.csv
+*.roster.*

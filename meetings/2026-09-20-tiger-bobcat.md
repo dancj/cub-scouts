@@ -26,9 +26,9 @@
 
 ## Sign-off after the meeting
 
-Reqs 1–5 done in-meeting → mark each scout's **Bobcat** column in
-`tracking/tiger-tracker.csv` once #6 (home) is also confirmed. Bobcat is complete
-only when all 6 are done. Then copy into Scoutbook.
+Reqs 1–5 done in-meeting. Bobcat is complete only when all 6 are done (incl. #6 at
+home). Record each scout's completion in **Scoutbook** — not in this repo (public,
+no PII).
 
 ## Homework for families
 

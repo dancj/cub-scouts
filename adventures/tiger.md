@@ -47,8 +47,23 @@ parent/guardian.
 
 ## Elective adventures (pick 2)
 
-Safe and Smart · Rolling Tigers · Let's Camp! Tiger · Good Knights ·
-Champions for Nature–Tiger · Fish On · Curiosity, Intrigue and Magical Mysteries ·
-Tiger Tag · Tiger-iffic! · Floats and Boats · Race Time · Archery–Tiger ·
-BB Gun–Tiger · Slingshot–Tiger · Designed by Tiger · Stories in Shapes ·
-Sky is the Limit · Technology All Around · Summertime Fun · Tigers in the Water
+- Safe and Smart
+- Rolling Tigers
+- Let's Camp! Tiger
+- Good Knights
+- Champions for Nature – Tiger
+- Fish On
+- Curiosity, Intrigue and Magical Mysteries
+- Tiger Tag
+- Tiger-iffic!
+- Floats and Boats
+- Race Time
+- Archery – Tiger
+- BB Gun – Tiger
+- Slingshot – Tiger
+- Designed by Tiger
+- Stories in Shapes
+- Sky is the Limit
+- Technology All Around
+- Summertime Fun
+- Tigers in the Water
