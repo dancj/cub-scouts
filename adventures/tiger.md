@@ -45,6 +45,66 @@ parent/guardian.
   quiet and when reciting. **Salute** — two fingers to the brow, for the flag.
   **Handshake** — two fingers on the other's wrist.
 
+## Required adventure requirements (2024+ program)
+
+Source: scouting.org Tiger adventure pages (2024 update). All requirements below
+must be completed — the 2024 versions dropped the older "complete X of the
+following" choice logic (except Tiger Circles' whole-adventure alternative).
+Re-check [scouting.org](https://www.scouting.org/programs/cub-scouts/adventures/tiger/)
+and the current handbook before a den signs off.
+
+### Tiger Bites (Personal Fitness)
+
+1. Identify the five different food groups.
+2. Practice hand washing. Point out when you should wash your hands.
+3. Be active for 30 minutes.
+4. Practice methods that help you sleep.
+
+### Team Tiger (Citizenship)
+
+1. Play a game with your den, or family members, that has a set of rules.
+   Discuss why rules are important to the game you are playing.
+2. With your Tiger adult partner, choose a job that will help your team. Follow
+   through by doing that job at least once.
+3. Play a game that requires at least two teams with your den, or two other
+   family members. Afterwards discuss what it means to be part of a team and
+   what makes a good team member.
+4. Participate in a service project.
+
+### Tigers in the Wild (Outdoors)
+
+1. Identify the Cub Scout Six Essentials. Show what you do with each item.
+2. With your den leader or Tiger adult partner, learn about the Outdoor Code.
+3. With your den, pack, or family, take a walk outside for at least 20 minutes
+   exploring the outdoors with your Cub Scout Six Essentials. While outside,
+   identify things you see that are natural and things that are manmade.
+4. Identify common animals found where you live. Learn which are domesticated and
+   which are wild. Draw a picture of your favorite animal.
+5. Look for a tree where you live. Describe how this tree is helpful.
+
+### Tiger Circles (Family & Reverence — Duty to God)
+
+1. With your parent or legal guardian, talk about your family's faith traditions.
+   Identify three holidays or celebrations that are part of your family's faith
+   traditions. Draw a picture of your favorite.
+2. With your family, attend a religious service **or** other gathering that shows
+   how your family expresses reverence.
+3. Carry out an act of kindness.
+
+> **Alternative:** a scout may earn this adventure by completing the requirements
+> above **or** by earning the religious emblem of the family's choosing.
+> Faith specifics are a family matter — keep them out of this repo.
+
+### Tiger's Roar (Personal Safety Awareness)
+
+1. With permission from your parent or legal guardian, watch the Protect Yourself
+   Rules video for the Tiger rank.
+2. With your Tiger adult partner, demonstrate Shout, Run, Tell as explained in
+   the video.
+3. With your Tiger adult partner, demonstrate how to access emergency services.
+4. With your Tiger adult partner, demonstrate what to do if you get lost or
+   separated.
+
 ## Elective adventures (pick 2)
 
 - Safe and Smart
