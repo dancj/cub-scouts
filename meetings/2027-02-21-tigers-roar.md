@@ -22,14 +22,19 @@ Requirement text: see `adventures/tiger.md` → Tiger's Roar.
 
 ## Agenda (~45 min)
 
+Video is the only sit-still block — keep it tight, then move. Demos (reqs 2–4)
+are active: kids act them out, partner plays along.
+
 | Time | What | Req |
 |------|------|-----|
-| 0:00 | Gather, opening | — |
-| 0:05 | **Protect Yourself Rules video** (Tiger) — only scouts with parent permission; others do it at home | **1** |
-| 0:20 | **Shout, Run, Tell** — each scout + partner demonstrates it | **2** |
-| 0:28 | **Access emergency services** — demonstrate how to call/get help (know your address, dial for help) | **3** |
-| 0:36 | **Lost or separated** — demonstrate what to do if lost/separated (stay put, find a safe adult) | **4** |
-| 0:43 | Closing — den yell | — |
+| 0:00 | Gather — free play as kids arrive | — |
+| 0:10 | Opening — sign, quick Oath (2 min) | — |
+| 0:12 | **Protect Yourself Rules video** (Tiger) — permitted scouts only; others do it at home (~10 min) | **1** |
+| 0:22 | Free play / wiggle break | — |
+| 0:27 | **Shout, Run, Tell** — each scout + partner acts it out | **2** |
+| 0:35 | **Access emergency services** — act out calling for help (know address, dial) | **3** |
+| 0:40 | **Lost or separated** — act out: stay put, find a safe adult | **4** |
+| 0:45 | Closing — den yell | — |
 
 ## Sign-off after the meeting
 

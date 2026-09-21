@@ -20,17 +20,20 @@ Requirement text: see `adventures/tiger.md` → Tigers in the Wild.
 - [ ] A short outdoor route for the 20-min walk (weather permitting)
 - [ ] Attendance check (private local tracker only — no PII in this repo)
 
-## Agenda (~45–60 min)
+## Agenda (~50 min)
+
+Structured blocks short; the 20-min walk is the run-around. Do the tree (req 5)
+and natural-vs-manmade spotting *during* the walk, not as extra sit-down time.
 
 | Time | What | Req |
 |------|------|-----|
-| 0:00 | Gather, opening | — |
-| 0:05 | **Six Essentials** — show each item; kids say what it's for | **1** |
-| 0:18 | **Outdoor Code** — read + talk through what it means | **2** |
-| 0:25 | **20-min outdoor walk** — explore with the Six Essentials; spot *natural vs manmade* things | **3** |
-| 0:48 | **Local animals** — name common local animals; wild vs domesticated; draw favorite | **4** |
-| 0:58 | **A helpful tree** — find/talk about a local tree and how it helps | **5** |
-| 1:05 | Closing — den yell | — |
+| 0:00 | Gather — free play as kids arrive | — |
+| 0:10 | Opening — sign, quick Oath (2 min) | — |
+| 0:12 | **Six Essentials** — show each, kids say its use (8 min) | **1** |
+| 0:20 | **Outdoor Code** — read + quick talk (5 min) | **2** |
+| 0:25 | **20-min walk** — explore w/ Six Essentials; spot natural vs manmade; find a helpful **tree** | **3**, **5** |
+| 0:45 | **Local animals** — wild vs domesticated; draw favorite (calm after walk) | **4** |
+| 0:55 | Closing — den yell | — |
 
 ## Sign-off after the meeting
 

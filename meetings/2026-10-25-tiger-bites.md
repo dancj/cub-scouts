@@ -14,21 +14,20 @@ Requirement text: see `adventures/tiger.md` → Tiger Bites.
 - [ ] Simple snack (allergy-aware) — ties into the food-groups talk
 - [ ] Attendance check (private local tracker only — no PII in this repo)
 
-## Agenda (~45–60 min)
+## Agenda (~55 min)
+
+Structured blocks kept to 5–10 min, with free play / movement between (1st-grade
+attention spans). Req 3 (be active 30 min) is the big run-around and anchors it.
 
 | Time | What | Req |
 |------|------|-----|
-| 0:00 | Gather, opening (Scout sign for quiet, quick Oath) | — |
-| 0:05 | **Five food groups** — sort cards/cutouts into the 5 groups; name each | **1** |
-| 0:18 | **Handwashing** — demo good handwashing; kids list *when* to wash (before eating, after bathroom, after play) | **2** |
-| 0:28 | **Be active 30 min** — active game / relay / obstacle course | **3** |
-| 0:58 | **Sleep** — quick talk: routines that help you sleep (dark, no screens, same bedtime) | **4** |
-| 1:03 | Snack (allergy-aware); tie back to food groups | reinforces **1** |
-| 1:10 | Closing — den yell, next meeting reminder | — |
-
-> The 30-min active block anchors the meeting — do the food-groups sort first
-> while kids are settled, run the game in the middle, cool down with the sleep
-> talk + snack.
+| 0:00 | Gather — free play as kids arrive | — |
+| 0:10 | Opening — sign, quick Oath (2 min) | — |
+| 0:12 | **Five food groups** — quick sort, name each (8 min) | **1** |
+| 0:20 | **Be active 30 min** — game / relay / obstacle course (the run-around) | **3** |
+| 0:50 | **Handwashing** — demo + when to wash (5 min) | **2** |
+| 0:55 | Snack + quick **sleep** chat (dark, no screens, same bedtime) | **4**, reinforces **1** |
+| 1:00 | Closing — den yell | — |
 
 ## Sign-off after the meeting
 

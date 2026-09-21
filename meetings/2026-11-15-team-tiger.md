@@ -16,15 +16,20 @@ Requirement text: see `adventures/tiger.md` → Team Tiger.
       food-drive sorting) or details for a pack service event
 - [ ] Attendance check (private local tracker only — no PII in this repo)
 
-## Agenda (~45–60 min)
+## Agenda (~55 min)
+
+Structured blocks 5–10 min; the games are the run-around. Keep each "discuss"
+bit to ~2 min, right after the game while kids catch their breath.
 
 | Time | What | Req |
 |------|------|-----|
-| 0:00 | Gather, opening | — |
-| 0:05 | **Rules game** — play a game with rules; after, discuss *why rules matter* | **1** |
-| 0:18 | **Team job** — each scout + partner pick a den job; do it at least once (some jobs happen live this meeting) | **2** |
-| 0:28 | **Team game** — 2+ teams; after, discuss what makes a good team member | **3** |
-| 0:42 | **Service project** — do a short project now, or brief families on the pack service event | **4** |
+| 0:00 | Gather — free play as kids arrive | — |
+| 0:10 | Opening — sign, quick Oath (2 min) | — |
+| 0:12 | **Rules game** — play; then 2-min talk: why rules matter | **1** |
+| 0:25 | Free play / water break | — |
+| 0:30 | **Team game** (2+ teams) — play; then 2-min talk: good team member | **3** |
+| 0:42 | **Team job** — pick a den job w/ partner (5 min); do it at least once | **2** |
+| 0:47 | **Service project** — short project now, or brief families on pack event | **4** |
 | 0:55 | Closing — den yell, remind team jobs continue | — |
 
 ## Sign-off after the meeting
