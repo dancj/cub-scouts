@@ -21,15 +21,18 @@ Tiger Circles.
       cleanup, thank-yous for pack volunteers)
 - [ ] Attendance check (private local tracker only — no PII in this repo)
 
-## Agenda (~30–45 min)
+## Agenda (~35 min)
+
+Light den meeting — most of this adventure is done at home. Keep the intro
+short; the act of kindness is the hands-on part.
 
 | Time | What | Req |
 |------|------|-----|
-| 0:00 | Gather, opening | — |
-| 0:05 | Introduce the adventure; explain reqs 1–2 are done **at home** with family; hand out the family sheet | **1–2 (home)** |
-| 0:15 | **Act of kindness** — do one together as a den, or plan one each scout will do | **3** |
-| 0:30 | Note the **religious-emblem alternative** (earning the family's chosen emblem covers the whole adventure) | — |
-| 0:35 | Closing — den yell | — |
+| 0:00 | Gather — free play as kids arrive | — |
+| 0:10 | Opening — sign, quick Oath (2 min) | — |
+| 0:12 | Intro adventure; hand out family sheet; reqs 1–2 are **home**; mention religious-emblem option (5 min) | **1–2 (home)** |
+| 0:17 | **Act of kindness** — do one as a den, or plan each scout's own | **3** |
+| 0:30 | Free play / closing — den yell | — |
 
 ## Sign-off after the meeting
 
