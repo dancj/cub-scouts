@@ -1,43 +1,45 @@
 # Meeting 3 — Team Tiger (2026-11-15)
 
 **Goal:** complete most of the **Team Tiger** adventure (Citizenship). Reqs 1
-and 3 (games) done in-meeting; assign req 2 (a team job); plan/start req 4
-(service project).
-**Bring:** Tiger adult partners (required).
+and 3 are games — play them **outside** while mid-November weather allows.
+Assign req 2 (a team job); do or plan req 4 (service project).
+**Bring:** Tiger adult partners (required). Dress for outdoors.
 
 Requirement text: see `adventures/tiger.md` → Team Tiger.
 
+> **Field trip / service idea:** meet at a park and do a **playground or trail
+> litter pickup** as the service project (req 4) — then play the games there.
+> Indoor backup: food-drive sorting or thank-you cards.
+
 ## Prep / supplies
 
-- [ ] A simple rules-based game (e.g. Simon Says, board game, card game)
-- [ ] A team game needing 2+ teams (relay, capture-the-flag, tug-of-war)
-- [ ] List of den "team jobs" to choose from (setup, cleanup, snack helper, line leader)
-- [ ] Service-project plan — either a small in-meeting project (thank-you cards,
-      food-drive sorting) or details for a pack service event
+- [ ] Soccer ball + cones (rules game, req 1)
+- [ ] Pinnies/bandanas in 2 colors for **capture the flag** or a relay (teams, req 3)
+- [ ] Gloves + trash bags for litter pickup (req 4)
+- [ ] List of den "team jobs": setup, cleanup, snack helper, line leader, flag holder
 - [ ] Attendance check (private local tracker only — no PII in this repo)
 
-## Agenda (~55 min)
+## Agenda (~60 min)
 
-Structured blocks 5–10 min; the games are the run-around. Keep each "discuss"
-bit to ~2 min, right after the game while kids catch their breath.
+Games are the run-around. Each "discuss" bit is ~2 min, right after the game
+while kids catch their breath.
 
 | Time | What | Req |
 |------|------|-----|
-| 0:00 | Gather — free play as kids arrive | — |
+| 0:00 | Gather — **catch / frisbee** as kids arrive | — |
 | 0:10 | Opening — sign, quick Oath (2 min) | — |
-| 0:12 | **Rules game** — play; then 2-min talk: why rules matter | **1** |
-| 0:25 | Free play / water break | — |
-| 0:30 | **Team game** (2+ teams) — play; then 2-min talk: good team member | **3** |
-| 0:42 | **Team job** — pick a den job w/ partner (5 min); do it at least once | **2** |
-| 0:47 | **Service project** — short project now, or brief families on pack event | **4** |
-| 0:55 | Closing — den yell, remind team jobs continue | — |
+| 0:12 | **Soccer** (mini game, simple rules) — then 2 min: why do games need rules? | **1** |
+| 0:25 | **Team job** — pick a den job w/ partner (5 min) | **2** |
+| 0:30 | **Capture the flag** or relay (2 teams) — then 2 min: what makes a good teammate? | **3** |
+| 0:42 | **Litter pickup** — partners + scouts, 10 min, then sort what they found | **4** |
+| 0:55 | Brain break — **duck duck goose**, then closing den yell | — |
 
 ## Sign-off after the meeting
 
-Req 4 (service project) may finish at a separate pack event — mark complete only
-once the scout actually participated. Record in **Scoutbook** — not this repo.
+Req 2 completes once the scout has done their job at least once (can be this
+meeting). If the service project moves to a pack event, mark req 4 only after
+the scout participates. Record in **Scoutbook** — not this repo.
 
 ## Homework for families
 
-- Req **2**: keep doing the chosen team/den job until it's clearly done.
-- Req **4**: attend the service project if it's a separate date.
+- Req **2**: keep doing the chosen team/den job.

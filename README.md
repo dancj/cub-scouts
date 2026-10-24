@@ -37,5 +37,5 @@ keep going. Nothing here needs restructuring.
 
 ## Start here
 
-- Tomorrow's meeting: [`meetings/2026-09-20-tiger-bobcat.md`](meetings/2026-09-20-tiger-bobcat.md)
+- Next meeting: [`meetings/2026-10-25-tigers-in-the-wild.md`](meetings/2026-10-25-tigers-in-the-wild.md)
 - Tiger adventures + Bobcat requirements: [`adventures/tiger.md`](adventures/tiger.md)
