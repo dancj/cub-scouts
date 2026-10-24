@@ -14,31 +14,34 @@ Tiger Circles.
 > collect or discuss any family's specific beliefs (also keeps PII/faith info
 > out of this public repo). The den's shared piece is the act of kindness.
 
+> **Field trip option:** make cards at the meeting, then **deliver them** to a
+> senior center or fire station (call ahead) — the delivery is the act of
+> kindness (req 3).
+
 ## Prep / supplies
 
 - [ ] Handout for families: the 3 requirements + the religious-emblem option
-- [ ] Materials for a den **act of kindness** (e.g. cards for a senior center,
-      cleanup, thank-yous for pack volunteers)
+- [ ] Card-making supplies for the act of kindness
+- [ ] Ball for brain breaks (indoor-safe)
 - [ ] Attendance check (private local tracker only — no PII in this repo)
 
-## Agenda (~35 min)
+## Agenda (~40 min)
 
-Light den meeting — most of this adventure is done at home. Keep the intro
-short; the act of kindness is the hands-on part.
+Light meeting — most of this adventure is done at home.
 
 | Time | What | Req |
 |------|------|-----|
-| 0:00 | Gather — free play as kids arrive | — |
+| 0:00 | Gather — **catch** as kids arrive | — |
 | 0:10 | Opening — sign, quick Oath (2 min) | — |
-| 0:12 | Intro adventure; hand out family sheet; reqs 1–2 are **home**; mention religious-emblem option (5 min) | **1–2 (home)** |
-| 0:17 | **Act of kindness** — do one as a den, or plan each scout's own | **3** |
-| 0:30 | Free play / closing — den yell | — |
+| 0:12 | Intro adventure; hand out family sheet; reqs 1–2 are **home**; mention religious-emblem option (5 min, mostly for partners) | **1–2 (home)** |
+| 0:17 | Brain break — **duck duck goose** (5 min) | — |
+| 0:22 | **Act of kindness** — make cards (10 min); deliver if doing the field trip | **3** |
+| 0:32 | **Tag**, then closing den yell | — |
 
 ## Sign-off after the meeting
 
-Most of this adventure completes at home. Mark complete once a family confirms
-reqs 1–2 done (or the religious emblem earned) and the act of kindness is done.
-Record in **Scoutbook** — not this repo.
+Mark complete once a family confirms reqs 1–2 done (or the religious emblem
+earned) and the act of kindness is done. Record in **Scoutbook** — not this repo.
 
 ## Homework for families
 
